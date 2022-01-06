@@ -1,6 +1,7 @@
 com\springboot\petclinic\dao\PetRepository.class
 com\springboot\petclinic\model\Pet.class
 com\springboot\petclinic\PetClinicConfiguration.class
+com\springboot\petclinic\web\PetClinicController.class
 com\springboot\petclinic\model\Owner.class
 com\springboot\petclinic\dao\mem\OwnerRepositoryInMemoryImp.class
 META-INF\spring-configuration-metadata.json
