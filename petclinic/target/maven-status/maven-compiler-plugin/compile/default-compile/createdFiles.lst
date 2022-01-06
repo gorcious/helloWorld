@@ -1,0 +1,12 @@
+com\springboot\petclinic\dao\PetRepository.class
+com\springboot\petclinic\model\Pet.class
+com\springboot\petclinic\PetClinicConfiguration.class
+com\springboot\petclinic\model\Owner.class
+com\springboot\petclinic\dao\mem\OwnerRepositoryInMemoryImp.class
+META-INF\spring-configuration-metadata.json
+com\springboot\petclinic\PetClinicApplication.class
+com\springboot\petclinic\PetClinicProperties.class
+com\springboot\petclinic\service\PetClinicServiceImpl.class
+com\springboot\petclinic\service\PetClinicService.class
+com\springboot\petclinic\exception\OwnerNotFoundException.class
+com\springboot\petclinic\dao\OwnerRepository.class
